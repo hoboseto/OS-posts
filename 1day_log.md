@@ -2,7 +2,6 @@
 - 日時:2020/12/16 22:00~
 - 参加者:siva([@honamium](https://twitter.com/honamium/ "twitter"))[記録]，やっぴ([@yappippi90](https://twitter.com/yappippi90/ "twitter"))，KSK([@StalemateKSK](https://twitter.com/StalemateKSK/ "twitter"))，Enigamict([@Enigamict](https://twitter.com/Enigamict/ "twitter"))，旅人([@](https://twitter.com// "twitter"))，永井([@loyal_milktea](https://twitter.com/loyal_milktea/ "twitter"))
 
-
 ## やったこと
 
 ### 自己紹介
@@ -13,18 +12,32 @@
 	~~セキュキャン運営からすると沖縄は瀬戸内らしいことが発覚した回~~
 - オタクトークを振るとだいたい誰かが反応してくれるやさしいせかい
 
-### OS本1日目(永井)
-
+### OS本1日目
+#### 資料(永井)
+<link rel="stylesheet" href="{{site.github.url}}/css/style.css" charset="utf-8">
+<div class="g-slide">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKxoiXP3G7FdQENLsCJi3tlkq0j2vnrizRewOfMZvrwDanIEL0KE0AQLZ6rtSauT2Vr79Ee4qNRlUp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-* 得た知見とか
+</div>
+#### 得た知見とか
   * アセンブラやったことなくても調べながらやればなんとかなる(根性)
   * 実際にブートセクタの0埋めを手打ちすると10分くらいかかった(根性)
   * 実際にフロッピーディスクで動かしたい(購入を検討中……)
-  * ファイルシステムの違いについてみんなで調べる
+  * ファイルシステムまわりをみんなで調べる
+
+### 今後の方針
+  * 隔週くらいの頻度で開催
+  * 半年で30日まで終わらせるのが目標
+  * 全て終わった暁には議事をまとめて本か何かにするという野望
+  * 開催したら議事を公開することでセキュキャン勢のモチベを上げる(全員で†圧倒的成長†)
 
 ## 次回
 - 日時:2020/12/23 22:00~
 - やること
   - OS本2日目(Enigamict)
   - OS本3日目(siva)
+  - (OS本4日目前半(KSK))
+
+
+[2回目](2day_log "議事録")
+
+[Index](index)
