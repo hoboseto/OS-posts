@@ -1,8 +1,3 @@
----
-layout: default
-title: OS自作勉強会 Index
----
-
 # OS自作勉強会 Index
 
 ## 勉強会
