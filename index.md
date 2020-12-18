@@ -35,5 +35,5 @@ SecurityCamp2020のグループほぼ瀬戸内の成果報告用サイトです�
 - やっぴ([@yappippi90](https://twitter.com/yappippi90/ "twitter"))
 - KSK([@StalemateKSK](https://twitter.com/StalemateKSK/ "twitter"))
 - Enigamict([@Enigamict](https://twitter.com/Enigamict/ "twitter"))
-- 旅人([@](https://twitter.com// "twitter"))
+- 旅人([@boshoot05](https://twitter.com/boshoot05/ "twitter"))
 - 永井([@loyal_milktea](https://twitter.com/loyal_milktea/ "twitter"))
