@@ -1,6 +1,6 @@
 # 勉強会#1
 - 日時:2020/12/16 22:00~
-- 参加者:siva([@honamium](https://twitter.com/honamium/ "twitter"))[記録]，やっぴ([@yappippi90](https://twitter.com/yappippi90/ "twitter"))，KSK([@StalemateKSK](https://twitter.com/StalemateKSK/ "twitter"))，Enigamict([@Enigamict](https://twitter.com/Enigamict/ "twitter"))，旅人([@](https://twitter.com// "twitter"))，永井([@loyal_milktea](https://twitter.com/loyal_milktea/ "twitter"))
+- 参加者:siva([@honamium](https://twitter.com/honamium/ "twitter"))[記録]，やっぴ([@yappippi90](https://twitter.com/yappippi90/ "twitter"))，KSK([@StalemateKSK](https://twitter.com/StalemateKSK/ "twitter"))，Enigamict([@Enigamict](https://twitter.com/Enigamict/ "twitter"))，旅人([@boshoot05](https://twitter.com// "twitter"))，永井([@loyal_milktea](https://twitter.com/loyal_milktea/ "twitter"))
 
 ## やったこと
 
