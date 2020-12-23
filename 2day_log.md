@@ -7,8 +7,12 @@
 ### OS本2日目
 #### 資料(Enigamict)
 アセンブラ学習とMakefile入門
-<iframe src="https://hobosetouchi.slack.com/files/U01E2DQQX5L/F01HEPU9VD3/os2day.pdf?origin_team=T01E95P9V7C&origin_channel=C01GV00PL14"frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-#### 得た知見とか
+
+<link rel="stylesheet" href="{{site.github.url}}/css/style.css" charset="utf-8">
+<div class="g-slide">
+<iframe src="https://hobosetouchi.slack.com/files/U01E2DQQX5L/F01HEPU9VD3/os2day.pdf?origin_team=T01E95P9V7C&origin_channel=C01GV00PL14"></iframe>
+</div>
+
 ・makefileの作り方などが載っているが、本誌はwindows版を元に実装になっていたが、Linuxで実装した。
 ・Linuxのベースのディレクトリで開発を行う方は参考サイトを参照した方がいい！
 ・この参考サイト版は最初にブートセクタの簡単な解説もしているのでなんだったんだ・・・という方におすすめ
