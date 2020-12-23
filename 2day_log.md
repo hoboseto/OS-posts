@@ -7,6 +7,7 @@
 ### OS本2日目
 #### 資料(Enigamict)
 アセンブラ学習とMakefile入門
+<iframe src="https://hobosetouchi.slack.com/files/U01E2DQQX5L/F01HEPU9VD3/os2day.pdf?origin_team=T01E95P9V7C&origin_channel=C01GV00PL14"frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 #### 得た知見とか
 ・makefileの作り方などが載っているが、本誌はwindows版を元に実装になっていたが、Linuxで実装した。
 ・Linuxのベースのディレクトリで開発を行う方は参考サイトを参照した方がいい！
@@ -16,10 +17,8 @@
 ### OS本3日目
 #### 資料(siva)
 本当のIPLを作ろう
+<iframe src="https://hobosetouchi.slack.com/files/U01DUDASWP9/F01J7MR3PEC/30__________________os_____________3______.pptx?origin_team=T01E95P9V7C&origin_channel=C01GV00PL14"frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 #### 得た知見とか
-
-### OS本4日目前半
-#### 資料(KSK)
 AH:ファンクションコードを指定
 ファンクションコード→
 今回使用したコード
@@ -32,12 +31,16 @@ DL:ドライブ番号
 
 バッファアドレス
 →セグメントレジスタ(ES)で拡張！
-ES:BX
+
+
+### OS本4日目前半
+#### 資料(KSK)
+
 #### 得た知見とか
 
 
 ## 次回
-- 日時:2021/1/00 22:00~
+- 日時:2021/1/9 22:00~
 - やること
   - OS本4日目後半(やっぴ)
   - OS本5日目(旅人)
