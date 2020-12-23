@@ -10,6 +10,8 @@ OS-posts(このレポジトリのroot)真下にmarkdownファイルをおけば�
 #### スライド挿入時の注意
 
 そのまま埋め込むとスライドのサイズがバグるので下記の形で挿入してください．
+スライドはgoogle slideに一旦上げてから公開を押してリンクを貼るのがいいかんじです．
+
 ```html
 <link rel="stylesheet" href="{{site.github.url}}/css/style.css" charset="utf-8">
 <div class="g-slide">
