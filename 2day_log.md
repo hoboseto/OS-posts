@@ -7,7 +7,7 @@
 ### OS本2日目
 #### 資料(Enigamict)
 アセンブラ学習とMakefile入門
-
+https://hobosetouchi.slack.com/files/U01E2DQQX5L/F01HEPU9VD3/os2day.pdf?origin_team=T01E95P9V7C&origin_channel=C01GV00PL14
 
 ・makefileの作り方などが載っているが、本誌はwindows版を元に実装になっていたが、Linuxで実装した。
 ・Linuxのベースのディレクトリで開発を行う方は参考サイトを参照した方がいい！
