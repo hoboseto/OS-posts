@@ -19,7 +19,7 @@
 ### OS本3日目
 #### 資料(siva)
 本当のIPLを作ろう
-<iframe src="https://hobosetouchi.slack.com/files/U01DUDASWP9/F01J7MR3PEC/30__________________os_____________3______.pptx?origin_team=T01E95P9V7C&origin_channel=C01GV00PL14"frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/18yPmGmmzSzRTvpWivsM5rnAnoT8tpX6QgovVcufT9l0/edit#slide=id.gb2a399431d_0_19" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 #### 得た知見とか
 AH:ファンクションコードを指定
 ファンクションコード→
