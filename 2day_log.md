@@ -7,7 +7,8 @@
 ### OS本2日目
 #### 資料(Enigamict)
 アセンブラ学習とMakefile入門
-https://hobosetouchi.slack.com/files/U01E2DQQX5L/F01HEPU9VD3/os2day.pdf?origin_team=T01E95P9V7C&origin_channel=C01GV00PL14
+<iframe src="https://hobosetouchi.slack.com/files/U01E2DQQX5L/F01HEPU9VD3/os2day.pdf?origin_team=T01E95P9V7C&origin_channel=C01GV00PL14
+" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ・makefileの作り方などが載っているが、本誌はwindows版を元に実装になっていたが、Linuxで実装した。
 ・Linuxのベースのディレクトリで開発を行う方は参考サイトを参照した方がいい！
@@ -17,7 +18,7 @@ https://hobosetouchi.slack.com/files/U01E2DQQX5L/F01HEPU9VD3/os2day.pdf?origin_t
 ### OS本3日目
 #### 資料(siva)
 本当のIPLを作ろう
-<iframe src="https://docs.google.com/presentation/d/18yPmGmmzSzRTvpWivsM5rnAnoT8tpX6QgovVcufT9l0/edit#slide=id.gb2a399431d_0_1" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/18yPmGmmzSzRTvpWivsM5rnAnoT8tpX6QgovVcufT9l0/edit#slide=id.gb2a399431d_0_19" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 #### 得た知見とか
 AH:ファンクションコードを指定
 ファンクションコード→
