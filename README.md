@@ -23,6 +23,9 @@ OS-posts(このレポジトリのroot)真下にmarkdownファイルをおけば�
 そのまま埋め込むとスライドのサイズがバグるので下記の形で挿入してください．
 スライドはgoogle slideに一旦上げてから公開を押してリンクを貼るのがいいかんじです．
 
+> 補足:`<link rel="stylesheet" href="{{site.github.url}}/css/style.css" charset="utf-8">`はほんとはheaderに加えたかったんですが，レンダリングを全部github pagesに投げてる関係で毎回ページ毎に読み込むために記述しています．読み込んでるcssはただスライドのサイズを調整するクラスだけ宣言してるのでもし加えたいcssがあれば勝手に編集してもらって大丈夫です．
+> なので上記の記述は各ページに1つで大丈夫です(複数スライド貼っつけるときも1つだけでよい)
+
 ```html
 <link rel="stylesheet" href="{{site.github.url}}/css/style.css" charset="utf-8">
 <div class="g-slide">
