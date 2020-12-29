@@ -8,7 +8,7 @@
 #### 資料(Enigamict)
 アセンブラ学習とMakefile入門
 <div class="g-slide">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUj-r574_AF9LyoxslP0OMIlA0XtNwpngbNCqQ094wHWqMsesaztozKrngLIvSFWArJZvCradCR2UP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1059" height="823" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUj-r574_AF9LyoxslP0OMIlA0XtNwpngbNCqQ094wHWqMsesaztozKrngLIvSFWArJZvCradCR2UP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 <!-- ここにEnigamictのスライドを埋め込む！ -->
 
