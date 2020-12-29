@@ -7,7 +7,7 @@
 ### OS本2日目
 #### 資料(Enigamict)
 アセンブラ学習とMakefile入門
-<script async class="speakerdeck-embed" data-id="bcabeae3567e4efc97ee2f028d42b3c8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-slide="1" data-id="bcabeae3567e4efc97ee2f028d42b3c8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 <!-- ここにEnigamictのスライドを埋め込む！ -->
 
 * makefileの作り方などが載っているが、本誌はwindows版を元に実装になっていたが、Linuxで実装した。
